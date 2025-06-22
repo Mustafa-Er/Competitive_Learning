@@ -35,3 +35,7 @@ Center Comparison: At the end of training, both models’ learned centers were c
 
 🧩 Visualization
 The learning process of both models was visualized using animations that showed how the centers moved during training. This made it easier to interpret the convergence behavior dynamically.
+
+![image](https://github.com/user-attachments/assets/8e4d1e13-1fd1-478a-a718-a1b3c93daa1b)
+
+
