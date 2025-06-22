@@ -19,9 +19,8 @@ This controlled setup allows for a ground-truth comparison of the learned center
 🧠 Models & Training
 Two competitive learning models were trained with different configurations:
 
-Model	Learning Rate	Epochs
-Model 1	1e-2	250
-Model 2	1e-3	500
+![image](https://github.com/user-attachments/assets/2247246a-24f4-41f5-8851-5b8ad39186bd)
+
 
 Both models used competitive weight updates, where only the "winning" neuron updates its weights toward the input sample.
 
